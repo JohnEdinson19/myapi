@@ -18,7 +18,7 @@
 
 3. Crea y activa el entorno virtual con pipenv
     ```bash
-    pip instale pipenv
+    pip install pipenv
     pipenv shell
     
 3. Instala las librerias
