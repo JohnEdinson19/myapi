@@ -2,7 +2,7 @@
 
 ## Requisitos
 
-- Python (versión X.X)
+- Python (versión 3.8)
 - pipenv
 
 ## Configuración del entorno virtual
