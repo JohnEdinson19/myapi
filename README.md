@@ -10,7 +10,7 @@
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/JohnEdinson19/REST_API_CRUD.git
+   git clone https://github.com/JohnEdinson19/myapi.git
 
 2. Navega al directorio del proyecto:
     cd myapi
